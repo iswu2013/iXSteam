@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+	<group>
+		<serialNumber>流水号</serialNumber>
+		<capitals>
+			<capital>
+				<custorName>hgdfd1</custorName>
+				<trade_sn>11111</trade_sn>
+				<import_type>31</import_type>
+				<acctNo>2222222</acctNo>
+				<money>23</money>
+				<returnCode>0</returnCode>
+			</capital>
+			<capital>
+				<custorName>2</custorName>
+				<trade_sn>444444</trade_sn>
+				<import_type>fxfvf</import_type>
+				<acctNo>666666</acctNo>
+				<money>23</money>
+				<returnCode>1</returnCode>
+			</capital>
+		</capitals>
+	</group>
+</result>
